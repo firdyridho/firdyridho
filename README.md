@@ -28,25 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 <!-- Tools -->
-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firdyridho&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdyridho&layout=compact&theme=radical&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=firdyridho&theme=radical&hide_border=true" />
-</div>
-<!-- Project Cards -->
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Awesome AI Tool](https://github.com/firdyridho/awesome-ai) | AI-powered productivity app | Python, TensorFlow, React |
-| [DevConnect](https://github.com/firdyridho/devconnect) | Social platform for devs | Next.js, Node.js, MongoDB |
-<div align="center">
-  <a href="https://github.com/firdyridho/awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firdyridho&repo=awesome-project&theme=dark" />
-  </a>
-  <a href="https://github.com/firdyridho/cool-library">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firdyridho&repo=cool-library&theme=dark" />
-  </a>
-</div>
