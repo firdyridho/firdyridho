@@ -1,4 +1,4 @@
-<h3 align="center">A people who always want to learn to be Full-Stack developer from Indonesia</h3>
+<h3 align="center">A People who always want to learn to be Full-Stack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdyridho&label=Profile%20views&color=0e75b6&style=flat" alt="firdyridho" /> </p>
 
