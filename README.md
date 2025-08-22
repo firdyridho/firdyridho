@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdyridho" alt="firdyridho" /></a> </p>
 
-- 🔭 I’m currently working on **Rita Mart Project**
+- 🔭 I’m currently working on **SI-NDO APP**
 
 <h3 align="left">Follow Gaes:</h3>
 <p align="left">
