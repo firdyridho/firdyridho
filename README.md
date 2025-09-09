@@ -53,6 +53,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/firdyridho/firdyridho/output/snake.svg" alt="Snake animation" />
-
 
