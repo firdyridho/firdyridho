@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdyridho" alt="firdyridho" /></a> </p>
 
-- 🔭 I’m currently working on **SI-NDO APP**
+- 🔭 I’m currently study at **Sultan Ageng Tirtayasa University**
 
 <h3 align="left">Follow Gaes:</h3>
 <div align="center">
