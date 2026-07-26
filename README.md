@@ -92,14 +92,14 @@ Yang beda dari card-card di atas — **profile summary card**, satu gambar isiny
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/firdyridho/firdyridho/main/metrics.trophy.svg" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=firdyridho&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
 
-<h3 align="center">🏙️ Contribution 3D</h3>
+<h3 align="center">🐍 Maen uler dulu</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/firdyridho/firdyridho/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%"/>
+  <img src="https://raw.githubusercontent.com/firdyridho/firdyridho/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — always down to talk full-stack, AI, or your next project idea 🚀</i></p>
