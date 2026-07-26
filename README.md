@@ -83,7 +83,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=react-dark&hide_border=false&area=true" alt="activity graph" width="90%"/>
 </div>
 
-Yang beda dari card-card di atas — **profile summary card**, satu gambar isinya ringkasan gabungan (streak, kontribusi, komit terakhir) dari layanan lain (`vn7n24fzkq`), bukan turunan `github-readme-stats`:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdyridho&theme=dracula" alt="profile summary" />
