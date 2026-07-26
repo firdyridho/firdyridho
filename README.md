@@ -69,7 +69,6 @@
 
 ### 📊 GitHub Stats
 
-> Catatan: card stats/lang lama (`github-readme-stats.vercel.app`) punya deployment yang sudah lama tidak stabil, jadi diganti ke **GitHub Stats Extended** — fork yang masih aktif dipelihara, tinggal ganti domain, tampilan sama.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=firdyridho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
