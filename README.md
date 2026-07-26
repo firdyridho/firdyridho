@@ -15,51 +15,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently studying at **Sultan Ageng Tirtayasa University**
-- 💻 Building full-stack apps across **PHP-native**, **MySQL/MySQLi**, **React**, and **REST APIs**
-- 🔐 Comfortable with **Google OAuth** and **Midtrans** payment integration
-- 🕌 Actively developing software for the **IKRAMA alumni organization** (Ikatan Keluarga Alumni Kun Karima)
-- 🌱 Currently exploring AI-assisted product design and premium UI/UX systems
-- ⚡ Fun fact: I like my UIs dark, gold, and glassy ✨
-
----
-
-### 🛠️ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 IKRAMA AI</h4>
-      <p>PHP-based AI chat platform for the IKRAMA alumni network, powered by NVIDIA NIM / OpenRouter APIs with Midtrans Snap payments and a full admin monitoring dashboard.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQLi-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Midtrans-00AEEF?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h4>📖 Hafizhly</h4>
-      <p>AI-powered Quran memorization companion with voice-recognition murojaah, an interactive E-Quran, AI coaching, and daily progress tracking (Mutabaah).</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AOS%20Animations-2ea043?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎓 PHP Learning Platform</h4>
-      <p>Complete video-course selling platform with Midtrans Snap + webhook integration, server-side access control, and AJAX progress tracking.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PDO-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Midtrans-00AEEF?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h4>🕌 IKRAMA Website</h4>
-      <p>Public website for the IKRAMA alumni organization, upgraded with parallax hero sections, 3D glassmorphism cards, and AJAX-paginated news.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+- 🎓 Mahasiswa **Universitas Sultan Ageng Tirtayasa**, sedang belajar jadi Full-Stack Developer
+- 💻 Sehari-hari main di **PHP**, **MySQL**, **React**, dan **REST API**
 
 ---
 
@@ -112,9 +69,11 @@
 
 ### 📊 GitHub Stats
 
+> Catatan: card stats/lang lama (`github-readme-stats.vercel.app`) punya deployment yang sudah lama tidak stabil, jadi diganti ke **GitHub Stats Extended** — fork yang masih aktif dipelihara, tinggal ganti domain, tampilan sama.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdyridho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firdyridho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=firdyridho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=firdyridho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -123,6 +82,13 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=react-dark&hide_border=false&area=true" alt="activity graph" width="90%"/>
+</div>
+
+Yang beda dari card-card di atas — **profile summary card**, satu gambar isinya ringkasan gabungan (streak, kontribusi, komit terakhir) dari layanan lain (`vn7n24fzkq`), bukan turunan `github-readme-stats`:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdyridho&theme=dracula" alt="profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firdyridho&theme=dracula" alt="profile summary stats" />
 </div>
 
 <div align="center">
