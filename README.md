@@ -89,10 +89,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firdyridho&theme=dracula" alt="profile summary stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firdyridho&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
-
 ---
 
 <h3 align="center">🐍 Maen uler dulu</h3>
