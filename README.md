@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firdy Ridho Fillah</h1>
+<h1 align="center">Hi, I'm Firdy Ridho Fillah</h1>
 <h3 align="center">A Full-Stack Developer from Indonesia who never stops leveling up</h3>
 
 <p align="center">
