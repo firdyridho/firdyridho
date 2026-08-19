@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdyridho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=0d1117" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=firdyridho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=0d1117" height="165" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
 </div>
 
 <div align="center">
