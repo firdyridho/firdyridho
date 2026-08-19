@@ -1,99 +1,78 @@
-<h1 align="center">Hi, I'm Firdy Ridho Fillah</h1>
-<h3 align="center">A Full-Stack Developer from Indonesia who never stops leveling up</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+REST+API;Building+AI-powered+apps+for+real+communities;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Firdy%20Ridho%20Fillah&fontSize=42&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20React%20%E2%80%A2%20REST%20API&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firdyridho&label=Profile%20views&color=C9A227&style=for-the-badge" alt="firdyridho" />
-  <img src="https://img.shields.io/github/followers/firdyridho?label=Followers&style=for-the-badge&color=C9A227" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea043?style=for-the-badge" alt="status" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+REST+API;Building+AI-powered+apps+for+real+communities;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=firdyridho&label=Profile%20Views&color=C9A227&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/firdyridho?label=Followers&style=for-the-badge&color=C9A227&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea043?style=for-the-badge" alt="status" />
 
-- 🎓 Mahasiswa **Universitas Sultan Ageng Tirtayasa**, sedang belajar jadi Full-Stack Developer
-- 💻 Sehari-hari main di **PHP**, **MySQL**, **React**, dan **REST API**
+</div>
 
----
+<br/>
 
-### 🌐 Connect with Me
+## 🚀 About Me
+
+- 🎓 Mahasiswa **Universitas Sultan Ageng Tirtayasa**, sedang menempuh perjalanan sebagai Full-Stack Developer
+- 💻 Sehari-hari berkutat dengan **PHP**, **MySQL**, **React**, dan **REST API**
+- 🤖 Fokus membangun aplikasi berbasis **AI** untuk kebutuhan komunitas nyata
+- 🌱 Terus belajar, terus mengirim kode ke produksi
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode&theme=dark" alt="tech stack icons" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdyridho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=0d1117" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=react-dark&hide_border=true&area=true&color=C9A227&line=C9A227&point=ffffff" alt="activity graph" width="90%"/>
+</div>
+
+<br/>
+
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.instagram.com/firdyfillaa_?igsh=MWRzc3g3MG91bGd4eg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="instagram" />
   </a>
-  <a href="firdyridho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://discord.com/users/firdyridho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="discord" />
   </a>
   <a href="https://www.facebook.com/share/1BM92yDGUk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="facebook" />
   </a>
   <a href="https://x.com/FillahFirdy?t=aEZsAsuJRpOBepnQPsna4Q&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="twitter" />
   </a>
 </div>
 
----
-
-### 💻 Languages & Tools
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=firdyridho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=firdyridho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=firdyridho&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=react-dark&hide_border=false&area=true" alt="activity graph" width="90%"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdyridho&theme=dracula" alt="profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firdyridho&theme=dracula" alt="profile summary stats" />
-</div>
-
----
-
-<h3 align="center">🐍 Maen uler dulu</h3>
-<p align="center">
   <img src="https://raw.githubusercontent.com/firdyridho/firdyridho/output/snake.svg" alt="Snake animation" />
-</p>
+</div>
 
-<p align="center"><i>Thanks for stopping by — always down to talk full-stack, AI, or your next project idea 🚀</i></p>
+<div align="center">
+  <i>Thanks for stopping by — always down to talk full-stack, AI, or your next project idea 🚀</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
