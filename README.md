@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" alt="GitHub Streak" />
 </div>
 
 <div align="center">
