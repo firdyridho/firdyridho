@@ -13,24 +13,23 @@
 
 <br/>
 
-## 🚀 About Me
+## Tentang Saya
 
-- 🎓 Mahasiswa **Universitas Sultan Ageng Tirtayasa**, sedang menempuh perjalanan sebagai Full-Stack Developer
-- 💻 Sehari-hari berkutat dengan **PHP**, **MySQL**, **React**, dan **REST API**
-- 🤖 Fokus membangun aplikasi berbasis **AI** untuk kebutuhan komunitas nyata
-- 🌱 Terus belajar, terus mengirim kode ke produksi
+Saya adalah mahasiswa di **Universitas Sultan Ageng Tirtayasa** yang berfokus pada pengembangan perangkat lunak sebagai *Full-Stack Developer*. Dalam keseharian, saya membangun dan memelihara sistem menggunakan **PHP**, **MySQL**, **React**, serta perancangan **REST API**. 
+
+Minat dan fokus utama saya saat ini adalah mengintegrasikan teknologi Kecerdasan Buatan (AI) ke dalam aplikasi untuk memberikan solusi praktis yang relevan bagi masyarakat. Saya memiliki komitmen kuat terhadap pembelajaran berkelanjutan dan pengembangan produk perangkat lunak yang andal.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Teknologi & Keahlian
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode&theme=dark" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark" alt="tech stack icons" />
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## Statistik GitHub
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
@@ -46,7 +45,7 @@
 
 <br/>
 
-## 🌐 Connect with Me
+## Hubungi Saya
 
 <div align="center">
 <a href="https://www.instagram.com/firdyfillaa_?igsh=MWRzc3g3MG91bGd4eg==" target="_blank">
@@ -66,7 +65,7 @@
 <br/>
 
 <div align="center">
-<i>Thanks for stopping by — always down to talk full-stack, AI, or your next project idea 🚀</i>
+<i>Terima kasih telah mengunjungi profil saya. Saya terbuka untuk diskusi mengenai pengembangan Full-Stack, implementasi AI, maupun potensi kolaborasi di masa mendatang.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
