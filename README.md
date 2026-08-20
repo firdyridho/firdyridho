@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Firdy%20Ridho%20Fillah&fontSize=42&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20React%20%E2%80%A2%20REST%20API&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Firdy%20Ridho%20Fillah&fontSize=42&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20React%20%E2%80%A2%20Go%20%E2%80%A2%20REST%20API&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+REST+API;Building+AI-powered+apps+for+real+communities;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+Go;Building+scalable+web+applications;Exploring+practical+AI+integrations" alt="Typing SVG" />
 
 <br/>
 
@@ -13,15 +13,15 @@
 
 <br/>
 
-## Tentang Saya
+## About Me
 
-Saya adalah mahasiswa di **Universitas Sultan Ageng Tirtayasa** yang berfokus pada pengembangan perangkat lunak sebagai *Full-Stack Developer*. Dalam keseharian, saya membangun dan memelihara sistem menggunakan **PHP**, **MySQL**, **React**, serta perancangan **REST API**. 
+I am an undergraduate student at **Universitas Sultan Ageng Tirtayasa** with a strong focus on software engineering as a Full-Stack Developer. I specialize in building, maintaining, and optimizing systems utilizing **PHP**, **MySQL**, **React**, and **Go**, alongside designing scalable **REST APIs**.
 
-Minat dan fokus utama saya saat ini adalah mengintegrasikan teknologi Kecerdasan Buatan (AI) ke dalam aplikasi untuk memberikan solusi praktis yang relevan bagi masyarakat. Saya memiliki komitmen kuat terhadap pembelajaran berkelanjutan dan pengembangan produk perangkat lunak yang andal.
+Currently, I am highly interested in exploring Artificial Intelligence integrations to deliver practical and relevant software solutions. I am driven by a commitment to continuous learning, writing clean code, and consistently shipping reliable products.
 
 <br/>
 
-## Teknologi & Keahlian
+## Tech Stack & Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark" alt="tech stack icons" />
@@ -29,7 +29,7 @@ Minat dan fokus utama saya saat ini adalah mengintegrasikan teknologi Kecerdasan
 
 <br/>
 
-## Statistik GitHub
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
@@ -45,7 +45,7 @@ Minat dan fokus utama saya saat ini adalah mengintegrasikan teknologi Kecerdasan
 
 <br/>
 
-## Hubungi Saya
+## Connect with Me
 
 <div align="center">
 <a href="https://www.instagram.com/firdyfillaa_?igsh=MWRzc3g3MG91bGd4eg==" target="_blank">
@@ -65,7 +65,7 @@ Minat dan fokus utama saya saat ini adalah mengintegrasikan teknologi Kecerdasan
 <br/>
 
 <div align="center">
-<i>Terima kasih telah mengunjungi profil saya. Saya terbuka untuk diskusi mengenai pengembangan Full-Stack, implementasi AI, maupun potensi kolaborasi di masa mendatang.</i>
+<i>Thanks for stopping by! I am always open to discussing Full-Stack development, tech innovations, and potential collaborations.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
