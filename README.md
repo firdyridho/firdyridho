@@ -1,8 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=FIRDY%20RIDHO%20FILLAH&fontSize=38&fontColor=E8E8E8&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Systems%20That%20Scale&descAlignY=55&descSize=15&fontFamily=Roboto" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,100:0D1117&height=10&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FD1C5&background=00000000&center=true&vCenter=true&width=680&lines=const+developer+%3D+%7B+role%3A+%22Full-Stack%22+%7D%3B;stack%3A+%5B%22PHP%22%2C+%22MySQL%22%2C+%22React%22%2C+%22Go%22%5D%3B;focus%3A+%22Scalable+REST+APIs%22%3B;currently_exploring%3A+%22AI+Integrations%22%3B" alt="Typing SVG" />
+<br/>
+
+<pre>
+███████╗██╗██████╗ ██████╗ ██╗   ██╗
+██╔════╝██║██╔══██╗██╔══██╗╚██╗ ██╔╝
+█████╗  ██║██████╔╝██║  ██║ ╚████╔╝ 
+██╔══╝  ██║██╔══██╗██║  ██║  ╚██╔╝  
+██║     ██║██║  ██║██████╔╝   ██║   
+╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝    ╚═╝   
+</pre>
+
+<h3><code>Ridho Fillah</code> — Full-Stack Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=4FD1C5&background=00000000&center=true&vCenter=true&width=680&lines=const+developer+%3D+%7B+role%3A+%22Full-Stack%22+%7D%3B;stack%3A+%5B%22PHP%22%2C+%22MySQL%22%2C+%22React%22%2C+%22Go%22%5D%3B;focus%3A+%22Scalable+REST+APIs%22%3B;currently_exploring%3A+%22AI+Integrations%22%3B" alt="Typing SVG" />
 
 <br/>
 
