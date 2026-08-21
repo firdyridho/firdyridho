@@ -35,7 +35,9 @@ learning:  AI-powered systems
 ## `03.` Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark&perline=7" alt="tech stack icons" width="100%" style="max-width:700px" />
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark&perline=7" alt="tech stack icons" />
+
 </div>
 
 <br/>
@@ -44,12 +46,12 @@ learning:  AI-powered systems
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=10" alt="top languages" width="49%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=10" alt="top languages" width="48%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117" alt="activity graph" width="97%" />
 
 </div>
 
