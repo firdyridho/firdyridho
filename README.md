@@ -10,44 +10,31 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=About&fontSize=28&fontColor=4FD1C5&fontAlignY=65&desc=Who%20I%20Am&descAlignY=85&descColor=9CA3AF" width="100%"/>
+<br/>
 
-Undergraduate Software Engineering student at **Universitas Sultan Ageng Tirtayasa**, focused on full-stack development with **PHP**, **MySQL**, **React**, and **Go**. Comfortable across the stack — from designing normalized databases and REST APIs to shipping responsive front-end interfaces.
+## About
 
-Currently exploring practical **AI integrations** — turning models into features people actually use, not just demos. I care about clean architecture, readable code, and consistently shipping things that work.
+Undergraduate Software Engineering student at **Universitas Sultan Ageng Tirtayasa**, focused on full-stack development with **PHP**, **MySQL**, **React**, and **Go**. Comfortable across the stack — from designing normalized databases and REST APIs to shipping responsive front-end interfaces. Currently exploring practical **AI integrations** — turning models into features people actually use, not just demos.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Quick%20Facts&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
+<br/>
 
-```yaml
-role:      Freelance Full-Stack Developer
-education: Software Engineering Undergraduate
-location:  Indonesia
-status:    Open to Work / Collaboration
-languages: [Bahasa Indonesia, English]
-learning:  AI-powered systems
-```
+## Quick Facts
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Tech%20Stack&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
+Freelance Full-Stack Developer and Software Engineering undergraduate based in Indonesia, currently open to work and collaboration. Communicates in Bahasa Indonesia and English, and is currently deepening skills in AI-powered systems.
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql,bootstrap,python,cpp,go,git&theme=dark&perline=12" alt="tech stack icons" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Activity&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
+<br/>
+
+## Activity
 
 <div align="center">
 
@@ -60,7 +47,9 @@ learning:  AI-powered systems
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Connect&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
+<br/>
+
+## Connect
 
 <div align="center">
 
@@ -84,5 +73,3 @@ learning:  AI-powered systems
 <div align="center">
 <sub>Open to discussing full-stack development, system design, and collaboration opportunities.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
