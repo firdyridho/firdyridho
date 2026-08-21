@@ -10,54 +10,57 @@
 
 </div>
 
-<br/>
-
-## `01.` About
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=About&fontSize=28&fontColor=4FD1C5&fontAlignY=65&desc=Who%20I%20Am&descAlignY=85&descColor=9CA3AF" width="100%"/>
 
 Undergraduate Software Engineering student at **Universitas Sultan Ageng Tirtayasa**, focused on full-stack development with **PHP**, **MySQL**, **React**, and **Go**. Comfortable across the stack — from designing normalized databases and REST APIs to shipping responsive front-end interfaces.
 
 Currently exploring practical **AI integrations** — turning models into features people actually use, not just demos. I care about clean architecture, readable code, and consistently shipping things that work.
 
-<br/>
-
-## `02.` Quick Facts
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Quick%20Facts&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
 
 ```yaml
-role:      Full-Stack Developer
-education: Software Engineering
+role:      Freelance Full-Stack Developer
+education: Software Engineering Undergraduate
 location:  Indonesia
+status:    Open to Work / Collaboration
 languages: [Bahasa Indonesia, English]
 learning:  AI-powered systems
 ```
 
-<br/>
-
-## `03.` Stack
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Tech%20Stack&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark&perline=7" alt="tech stack icons" />
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
-<br/>
-
-## `04.` Activity
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Activity&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=10" alt="top languages" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" width="410" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="top languages" width="310" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117" alt="activity graph" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117&height=250" alt="activity graph" width="97%" />
 
 </div>
 
-<br/>
-
-## `05.` Connect
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:2c5364,50:203a43,100:0f2027&height=60&section=header&text=Connect&fontSize=28&fontColor=4FD1C5&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
