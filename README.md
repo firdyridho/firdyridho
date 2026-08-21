@@ -56,7 +56,7 @@ learning:  AI-powered systems
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=8" height="165" alt="top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=10" height="165" alt="top languages" />
 
 </div>
 
