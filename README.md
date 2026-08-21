@@ -1,71 +1,98 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Firdy%20Ridho%20Fillah&fontSize=42&fontColor=C9A227&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20React%20%E2%80%A2%20Go%20%E2%80%A2%20REST%20API&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+React+%7C+Go;Building+scalable+web+applications;Exploring+practical+AI+integrations" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=FIRDY%20RIDHO%20FILLAH&fontSize=38&fontColor=E8E8E8&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Systems%20That%20Scale&descAlignY=55&descSize=15&fontFamily=Roboto" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FD1C5&background=00000000&center=true&vCenter=true&width=680&lines=const+developer+%3D+%7B+role%3A+%22Full-Stack%22+%7D%3B;stack%3A+%5B%22PHP%22%2C+%22MySQL%22%2C+%22React%22%2C+%22Go%22%5D%3B;focus%3A+%22Scalable+REST+APIs%22%3B;currently_exploring%3A+%22AI+Integrations%22%3B" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=firdyridho&label=Profile%20Views&color=C9A227&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/firdyridho?label=Followers&style=for-the-badge&color=C9A227&logo=github&logoColor=white" alt="followers" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea043?style=for-the-badge" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=firdyridho&label=PROFILE+VIEWS&color=203a43&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/firdyridho?label=FOLLOWERS&style=flat-square&color=203a43&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2c5364?style=flat-square" alt="status" />
 
 </div>
 
 <br/>
 
-## About Me
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-I am an undergraduate student at **Universitas Sultan Ageng Tirtayasa** with a strong focus on software engineering as a Full-Stack Developer. I specialize in building, maintaining, and optimizing systems utilizing **PHP**, **MySQL**, **React**, and **Go**, alongside designing scalable **REST APIs**.
+### `01.` About
 
-Currently, I am highly interested in exploring Artificial Intelligence integrations to deliver practical and relevant software solutions. I am driven by a commitment to continuous learning, writing clean code, and consistently shipping reliable products.
+Undergraduate Software Engineering student at **Universitas Sultan Ageng Tirtayasa**, focused on full-stack development with **PHP**, **MySQL**, **React**, and **Go**. Comfortable across the stack — from designing normalized databases and REST APIs to shipping responsive front-end interfaces.
 
-<br/>
+Currently exploring practical **AI integrations** — turning models into features people actually use, not just demos. I care about clean architecture, readable code, and consistently shipping things that work.
 
-## Tech Stack & Tools
+</td>
+<td width="40%" valign="top">
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark" alt="tech stack icons" />
-</div>
+### `02.` Quick Facts
 
-<br/>
+```yaml
+role:      Full-Stack Developer
+education: Software Engineering
+location:  Indonesia
+languages: [Bahasa Indonesia, English]
+learning:  AI-powered systems
+```
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=C9A227&text_color=ffffff&bg_color=0d1117&langs_count=8" height="165" alt="top languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=react-dark&hide_border=true&area=true&color=C9A227&line=C9A227&point=ffffff" alt="activity graph" width="90%"/>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Connect with Me
+### `03.` Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,php,laravel,react,mysql,bootstrap,git,vscode,go,cs&theme=dark&perline=7" alt="tech stack icons" />
+
+</div>
+
+<br/>
+
+### `04.` Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=firdyridho&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=firdyridho&layout=compact&hide_border=true&theme=dark&title_color=4FD1C5&text_color=ffffff&bg_color=0D1117&langs_count=8" height="165" alt="top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117" alt="activity graph" width="92%"/>
+
+</div>
+
+<br/>
+
+### `05.` Connect
+
+<div align="center">
+
 <a href="https://www.instagram.com/firdyfillaa_?igsh=MWRzc3g3MG91bGd4eg==" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="instagram" />
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="instagram" />
 </a>
 <a href="https://discord.com/users/firdyridho" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="discord" />
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" />
 </a>
 <a href="https://www.facebook.com/share/1BM92yDGUk/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="facebook" />
+<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="facebook" />
 </a>
 <a href="https://x.com/FillahFirdy?t=aEZsAsuJRpOBepnQPsna4Q&s=09" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="twitter" />
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
 </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-<i>Thanks for stopping by! I am always open to discussing Full-Stack development, tech innovations, and potential collaborations.</i>
+<sub>Open to discussing full-stack development, system design, and collaboration opportunities.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
