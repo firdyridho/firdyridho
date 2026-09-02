@@ -43,8 +43,6 @@ Freelance Full-Stack Developer and Software Engineering undergraduate based in I
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdyridho&theme=high-contrast&hide_border=true&area=true&color=4FD1C5&line=4FD1C5&point=ffffff&bg_color=0D1117&height=250" alt="activity graph" width="97%" />
-
 </div>
 
 <br/>
